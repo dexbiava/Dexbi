@@ -1,6 +1,6 @@
-# Dexbigame
+# Dexbi
 
-Yuki Kho Ếch v1.4
+Dexbi Ava v1.4
 
 Đây chỉ là một app trình duyệt kho game không quảng cáo 🦊 
 tôi mới phát hành nó vào ngày 4/4/2025
